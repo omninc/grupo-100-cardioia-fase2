@@ -1,0 +1,13 @@
+frase,situacao,categoria
+Nego dor no peito e nego falta de ar; apenas coceira leve na pele.,baixo risco,negacao
+Não tenho pressão no peito nem suor frio; estou apenas com coriza discreta.,baixo risco,negacao
+Nunca tive desmaio ou palpitações; sinto leve rigidez muscular após treino.,baixo risco,negacao
+Sem dor no peito ou falta de ar; um pequeno incômodo no dedo já melhorou.,baixo risco,negacao
+Não tenho dor no peito mas estou com falta de ar intensa em repouso.,alto risco,negacao_mista
+Sem palpitações mas a pressão forte no tórax persiste e estou suando frio.,alto risco,negacao_mista
+O peito tá apertando forte e tô sem fôlego mesmo parado.,alto risco,coloquial
+Meu coração tá disparado e acho que vou apagar.,alto risco,coloquial
+Tô com uma coceirinha no braço por causa da blusa e sigo de boa.,baixo risco,coloquial
+Minha costa ficou meio dolorida depois do treino mas já tá passando.,baixo risco,coloquial
+Ontem tive leve coriza; agora sinto dor intensa no peito e falta de ar.,alto risco,temporal
+O pequeno incômodo de ontem passou mas hoje estou com pressão forte no peito.,alto risco,temporal

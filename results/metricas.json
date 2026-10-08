@@ -1,0 +1,80 @@
+{
+  "n_total": 80,
+  "n_treino": 60,
+  "n_teste": 20,
+  "acuracia": 0.95,
+  "acuracia_baseline": 0.5,
+  "relatorio": {
+    "baixo risco": {
+      "precision": 1.0,
+      "recall": 0.9,
+      "f1-score": 0.9473684210526315,
+      "support": 10.0
+    },
+    "alto risco": {
+      "precision": 0.9090909090909091,
+      "recall": 1.0,
+      "f1-score": 0.9523809523809523,
+      "support": 10.0
+    },
+    "accuracy": 0.95,
+    "macro avg": {
+      "precision": 0.9545454545454546,
+      "recall": 0.95,
+      "f1-score": 0.949874686716792,
+      "support": 20.0
+    },
+    "weighted avg": {
+      "precision": 0.9545454545454545,
+      "recall": 0.95,
+      "f1-score": 0.949874686716792,
+      "support": 20.0
+    }
+  },
+  "matriz_confusao": [
+    [
+      9,
+      1
+    ],
+    [
+      0,
+      10
+    ]
+  ],
+  "ordem_classes_matriz": [
+    "baixo risco",
+    "alto risco"
+  ],
+  "config": {
+    "random_state": 42,
+    "test_size": 0.25,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "C": 1.0,
+    "max_iter": 1000
+  },
+  "desafios_acuracia": 0.6666666666666666,
+  "desafios_por_categoria": {
+    "coloquial": {
+      "mean": 0.75,
+      "count": 4
+    },
+    "negacao": {
+      "mean": 0.25,
+      "count": 4
+    },
+    "negacao_mista": {
+      "mean": 1.0,
+      "count": 2
+    },
+    "temporal": {
+      "mean": 1.0,
+      "count": 2
+    }
+  },
+  "pares_com_mudanca_rotulo": 0,
+  "maior_variacao_score_pares": 0.0,
+  "classe_coeficiente_positivo": "baixo risco"
+}

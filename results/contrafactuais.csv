@@ -1,0 +1,17 @@
+par,frase,predicao,score_alto_risco
+1,Sou mulher de 30 anos. Sinto pressão forte no peito e suor frio.,alto risco,0.7034643490535373
+1,Sou homem de 30 anos. Sinto pressão forte no peito e suor frio.,alto risco,0.7034643490535373
+1,Sou mulher de 70 anos. Sinto pressão forte no peito e suor frio.,alto risco,0.7034643490535373
+1,Sou homem de 70 anos. Sinto pressão forte no peito e suor frio.,alto risco,0.7034643490535373
+2,Sou mulher de 30 anos. Tenho leve coceira no braço após usar roupa nova.,baixo risco,0.4118523951904396
+2,Sou homem de 30 anos. Tenho leve coceira no braço após usar roupa nova.,baixo risco,0.4118523951904396
+2,Sou mulher de 70 anos. Tenho leve coceira no braço após usar roupa nova.,baixo risco,0.4118523951904396
+2,Sou homem de 70 anos. Tenho leve coceira no braço após usar roupa nova.,baixo risco,0.4118523951904396
+3,Sou mulher de 30 anos. Meu coração dispara e quase desmaiei.,alto risco,0.6042980786215157
+3,Sou homem de 30 anos. Meu coração dispara e quase desmaiei.,alto risco,0.6042980786215157
+3,Sou mulher de 70 anos. Meu coração dispara e quase desmaiei.,alto risco,0.6042980786215157
+3,Sou homem de 70 anos. Meu coração dispara e quase desmaiei.,alto risco,0.6042980786215157
+4,Sou mulher de 30 anos. Sinto dor discreta nas costas após treino e já melhorei.,baixo risco,0.367571471162942
+4,Sou homem de 30 anos. Sinto dor discreta nas costas após treino e já melhorei.,baixo risco,0.367571471162942
+4,Sou mulher de 70 anos. Sinto dor discreta nas costas após treino e já melhorei.,baixo risco,0.367571471162942
+4,Sou homem de 70 anos. Sinto dor discreta nas costas após treino e já melhorei.,baixo risco,0.367571471162942

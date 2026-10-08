@@ -1,0 +1,10 @@
+sintoma_1,sintoma_2,doenca_associada,fonte,observacao
+dor no peito,aperto no tórax,Síndrome coronariana / possível infarto,https://www.nhlbi.nih.gov/health/heart-attack/symptoms,Associação inespecífica; não confirma doença
+pressão no peito,dor que irradia para o braço,Síndrome coronariana / possível infarto,https://www.nhlbi.nih.gov/health/heart-attack/symptoms,Exige contexto e avaliação profissional
+suor frio,náusea,Síndrome coronariana / possível infarto,https://www.nhlbi.nih.gov/health/heart-attack/symptoms,Sintomas podem ocorrer em muitas outras condições
+cansaço constante,fadiga,Possível insuficiência cardíaca,https://www.nhlbi.nih.gov/health/heart-failure/symptoms,Isoladamente não diferencia causas
+inchaço nas pernas,tornozelos inchados,Possível insuficiência cardíaca,https://www.nhlbi.nih.gov/health/heart-failure/symptoms,Associação não exclusiva
+falta de ar,dificuldade para respirar,Possível insuficiência cardíaca,https://www.nhlbi.nih.gov/health/heart-failure/symptoms,Não inferir diagnóstico por um sintoma isolado
+dor no peito,aperto no tórax,Possível angina,https://www.nhlbi.nih.gov/health/coronary-heart-disease/symptoms,Sobreposição intencional de hipóteses
+palpitações,batimentos irregulares,Possível arritmia,https://www.nhlbi.nih.gov/health/arrhythmias/symptoms,Necessita avaliação e exames
+tontura,desmaio,Possível arritmia,https://www.nhlbi.nih.gov/health/arrhythmias/symptoms,Sintomas inespecíficos

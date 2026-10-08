@@ -1,0 +1,184 @@
+[
+  {
+    "frase": "Há dois dias sinto dor no peito ao subir as escadas e preciso interromper o caminho para o trabalho.",
+    "sintomas_presentes": [
+      "dor no peito"
+    ],
+    "sintomas_negados": [],
+    "hipoteses_educacionais": [
+      {
+        "hipotese": "Possível angina",
+        "evidencias": [
+          "dor no peito"
+        ]
+      },
+      {
+        "hipotese": "Síndrome coronariana / possível infarto",
+        "evidencias": [
+          "dor no peito"
+        ]
+      }
+    ],
+    "aviso": "Associações didáticas, inespecíficas e sem validade diagnóstica. Ausência de correspondência não significa ausência de risco."
+  },
+  {
+    "frase": "Desde ontem tenho aperto no tórax acompanhado de suor frio e não consigo terminar as tarefas domésticas.",
+    "sintomas_presentes": [
+      "aperto no tórax",
+      "suor frio"
+    ],
+    "sintomas_negados": [],
+    "hipoteses_educacionais": [
+      {
+        "hipotese": "Possível angina",
+        "evidencias": [
+          "aperto no tórax"
+        ]
+      },
+      {
+        "hipotese": "Síndrome coronariana / possível infarto",
+        "evidencias": [
+          "aperto no tórax",
+          "suor frio"
+        ]
+      }
+    ],
+    "aviso": "Associações didáticas, inespecíficas e sem validade diagnóstica. Ausência de correspondência não significa ausência de risco."
+  },
+  {
+    "frase": "Sinto cansaço constante há uma semana e preciso descansar várias vezes durante o expediente.",
+    "sintomas_presentes": [
+      "cansaço constante"
+    ],
+    "sintomas_negados": [],
+    "hipoteses_educacionais": [
+      {
+        "hipotese": "Possível insuficiência cardíaca",
+        "evidencias": [
+          "cansaço constante"
+        ]
+      }
+    ],
+    "aviso": "Associações didáticas, inespecíficas e sem validade diagnóstica. Ausência de correspondência não significa ausência de risco."
+  },
+  {
+    "frase": "Há três noites sinto falta de ar ao deitar e meu sono está sendo interrompido.",
+    "sintomas_presentes": [
+      "falta de ar"
+    ],
+    "sintomas_negados": [],
+    "hipoteses_educacionais": [
+      {
+        "hipotese": "Possível insuficiência cardíaca",
+        "evidencias": [
+          "falta de ar"
+        ]
+      }
+    ],
+    "aviso": "Associações didáticas, inespecíficas e sem validade diagnóstica. Ausência de correspondência não significa ausência de risco."
+  },
+  {
+    "frase": "Percebi inchaço nas pernas há cinco dias e meus sapatos apertam quando caminho até o mercado.",
+    "sintomas_presentes": [
+      "inchaço nas pernas"
+    ],
+    "sintomas_negados": [],
+    "hipoteses_educacionais": [
+      {
+        "hipotese": "Possível insuficiência cardíaca",
+        "evidencias": [
+          "inchaço nas pernas"
+        ]
+      }
+    ],
+    "aviso": "Associações didáticas, inespecíficas e sem validade diagnóstica. Ausência de correspondência não significa ausência de risco."
+  },
+  {
+    "frase": "Desde esta manhã tenho palpitações e tontura que me impedem de dirigir para o trabalho.",
+    "sintomas_presentes": [
+      "palpitações",
+      "tontura"
+    ],
+    "sintomas_negados": [],
+    "hipoteses_educacionais": [
+      {
+        "hipotese": "Possível arritmia",
+        "evidencias": [
+          "palpitações",
+          "tontura"
+        ]
+      }
+    ],
+    "aviso": "Associações didáticas, inespecíficas e sem validade diagnóstica. Ausência de correspondência não significa ausência de risco."
+  },
+  {
+    "frase": "Há duas horas sinto dor que irradia para o braço e náusea, por isso parei a atividade que estava fazendo.",
+    "sintomas_presentes": [
+      "dor que irradia para o braço",
+      "náusea"
+    ],
+    "sintomas_negados": [],
+    "hipoteses_educacionais": [
+      {
+        "hipotese": "Síndrome coronariana / possível infarto",
+        "evidencias": [
+          "dor que irradia para o braço",
+          "náusea"
+        ]
+      }
+    ],
+    "aviso": "Associações didáticas, inespecíficas e sem validade diagnóstica. Ausência de correspondência não significa ausência de risco."
+  },
+  {
+    "frase": "Desde a semana passada tenho fadiga e dificuldade para respirar durante a caminhada habitual.",
+    "sintomas_presentes": [
+      "dificuldade para respirar",
+      "fadiga"
+    ],
+    "sintomas_negados": [],
+    "hipoteses_educacionais": [
+      {
+        "hipotese": "Possível insuficiência cardíaca",
+        "evidencias": [
+          "dificuldade para respirar",
+          "fadiga"
+        ]
+      }
+    ],
+    "aviso": "Associações didáticas, inespecíficas e sem validade diagnóstica. Ausência de correspondência não significa ausência de risco."
+  },
+  {
+    "frase": "Há quatro dias tenho batimentos irregulares ao caminhar e preciso sentar para terminar o trajeto.",
+    "sintomas_presentes": [
+      "batimentos irregulares"
+    ],
+    "sintomas_negados": [],
+    "hipoteses_educacionais": [
+      {
+        "hipotese": "Possível arritmia",
+        "evidencias": [
+          "batimentos irregulares"
+        ]
+      }
+    ],
+    "aviso": "Associações didáticas, inespecíficas e sem validade diagnóstica. Ausência de correspondência não significa ausência de risco."
+  },
+  {
+    "frase": "Desde ontem sinto pressão no peito ao carregar sacolas e preciso parar no caminho, mas nego falta de ar.",
+    "sintomas_presentes": [
+      "pressão no peito"
+    ],
+    "sintomas_negados": [
+      "falta de ar"
+    ],
+    "hipoteses_educacionais": [
+      {
+        "hipotese": "Síndrome coronariana / possível infarto",
+        "evidencias": [
+          "pressão no peito"
+        ]
+      }
+    ],
+    "aviso": "Associações didáticas, inespecíficas e sem validade diagnóstica. Ausência de correspondência não significa ausência de risco."
+  }
+]

@@ -1,0 +1,21 @@
+linha_csv,frase,situacao,predicao,acerto
+34,Sinto dor opressiva no peito e uma fraqueza que impede ficar em pé.,alto risco,alto risco,True
+45,Sinto discreto incômodo no ombro depois do treino sem outros sintomas.,baixo risco,baixo risco,True
+22,Uma falta de ar repentina me obrigou a parar de falar.,alto risco,alto risco,True
+55,Estou com nariz escorrendo e sem dificuldade para respirar.,baixo risco,alto risco,False
+62,Sinto dor muscular leve na coxa depois de pedalar e consigo andar normalmente.,baixo risco,baixo risco,True
+16,Uma queimação forte no peito veio junto de falta de ar súbita.,alto risco,alto risco,True
+59,Meu ombro está levemente dolorido depois de pintar a parede.,baixo risco,baixo risco,True
+24,A dor no braço veio acompanhada de aperto no peito e náusea.,alto risco,alto risco,True
+80,Tenho leve irritação nos olhos depois de trabalhar no computador.,baixo risco,baixo risco,True
+66,Estou com coceira pequena onde a etiqueta da roupa encosta.,baixo risco,baixo risco,True
+50,Um pequeno incômodo no punho aparece quando digito por muito tempo.,baixo risco,baixo risco,True
+67,O nariz está um pouco congestionado mas a respiração segue normal.,baixo risco,baixo risco,True
+40,Sinto o peito apertado com dor no braço e tontura.,alto risco,alto risco,True
+30,A dor no peito começou subitamente e se espalhou para as costas.,alto risco,alto risco,True
+43,Tenho pequena coceira no braço desde que usei um sabonete novo.,baixo risco,baixo risco,True
+9,Senti palpitações com tontura intensa e queda ao chão.,alto risco,alto risco,True
+81,Senti cansaço após exercício habitual que desapareceu com descanso.,baixo risco,baixo risco,True
+20,As palpitações começaram de repente com fraqueza intensa e tontura.,alto risco,alto risco,True
+25,Meu coração está acelerado e estou prestes a desmaiar.,alto risco,alto risco,True
+12,Uma dor no tórax apareceu com náusea e suor frio.,alto risco,alto risco,True
